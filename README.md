@@ -9,7 +9,7 @@ This Magento 2 module addresses a compatibility issue between the Amasty GDPR Co
 1. **Download the code** or clone the repository to your Magento installation:
 
     ```bash
-    git clone https://github.com/your-repository-url.git app/code/Debuglabs/GdprCookieOverride
+    git clone https://github.com/splacento-incomm/AmastyGDPRCookieFIx.git .
     ```
 
 2. **Enable the Module**:
